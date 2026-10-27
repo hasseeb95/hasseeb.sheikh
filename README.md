@@ -102,9 +102,9 @@ Pour toute opportunité de stage ou tout échange professionnel, vous pouvez me 
 - **E-mail :** [hasseebsheikh95140@gmail.com](mailto:hasseebsheikh95140@gmail.com)
 - **Profil GitHub :** [github.com/hasseeb95](https://github.com/hasseeb95)
 - **Projet académique :** [Consulter le site](https://hasseeb95.github.io/hasseeb.projet-academique/)
+- **Téléphone :** 07 68 24 75 60
 
 ---
 
 *Portfolio professionnel — Hasseeb Hussain SHEIKH*  
 *DSP Assistant Intégrateur Web | CNAM de Paris*
-
