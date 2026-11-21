@@ -55,18 +55,54 @@ Ces compétences sont en cours de développement et d'approfondissement dans le 
 
 ---
 
+
 ## 4. Projet académique
 
 ### Création d'un site web de présentation du cursus DSP du CNAM
 
-**Technologies : HTML5 et CSS3**
+**Fiche projet – Méthode STAR**
 
-Dans le cadre de ma formation, j'ai participé à la réalisation d'un site web en binôme ayant pour objectif de présenter le cursus DSP au sein du CNAM.
+**Contexte : Année universitaire 2026-2027**  
+**Réalisation : Travail en binôme**  
+**Technologies : HTML5 et CSS3**  
+**Outil : Visual Studio Code**
 
-Ce projet m'a permis de mettre en pratique les bases de l'intégration web, de structurer des pages en HTML, de travailler leur présentation en CSS et de participer à l'organisation des contenus dans le cadre d'un travail collaboratif.
+#### S – Situation : Le contexte du projet
+
+Dans le cadre de ma première année de formation DSP – Assistant Intégrateur Web au CNAM Paris, j'ai participé à un projet académique en binôme avec un camarade. L'objectif était de concevoir un site web permettant de présenter notre cursus, ses objectifs et les compétences enseignées.
+
+Ce projet nous a permis de mettre en pratique les connaissances acquises en cours, notamment en HTML et CSS, dans une situation concrète de création web.
+
+#### T – Tâche : Les objectifs à atteindre
+
+Notre mission consistait à concevoir un site web clair, structuré et agréable à consulter. Nous devions organiser les informations, réfléchir à leur présentation et construire les différentes parties du site.
+
+Nous devions également nous organiser à deux, répartir le travail et veiller à la cohérence de l'ensemble du site.
+
+#### A – Action : La méthodologie et les outils utilisés
+
+Pour réaliser ce projet, nous avons travaillé en binôme et utilisé Visual Studio Code pour écrire et modifier notre code.
+
+Les principales étapes de notre travail ont été :
+- Structurer le contenu des pages avec HTML5.
+- Mettre en forme les éléments avec CSS3.
+- Organiser les informations pour faciliter la navigation et la compréhension.
+- Collaborer avec notre camarade pour faire avancer le projet.
+- Vérifier le rendu du site et apporter des ajustements si nécessaire.
+
+#### R – Résultat : Le résultat obtenu
+
+À la fin du projet, nous avons réalisé et publié un site web présentant la formation DSP du CNAM.
+
+Ce travail m'a permis de mettre en pratique mes connaissances en HTML et CSS, de mieux comprendre les étapes de création d'un site web et de développer ma capacité à travailler en équipe.
+
+J'ai également appris à transformer une demande en réalisation concrète, tout en tenant compte de l'organisation du contenu et de la présentation visuelle.
+
+**Livrable :** Site web accessible en ligne.
 
 **Consulter le projet :**  
 [Accéder au site web du projet académique](https://hasseeb95.github.io/hasseeb.projet-academique/)
+
 
 ---
 
